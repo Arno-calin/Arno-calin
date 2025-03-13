@@ -8,5 +8,4 @@ Mes dommaines préférés sont :
   - l'algorithmie
   - le développement d'API
 
-Mon projet personnel serait de créer un jeu vidéo indépendant.
-Et finalement j'espère pouvoir un jour me spécialiser en cybersécurité.
+J'espère avoir un jour l'occassion de découvrir la cybersécurité.
